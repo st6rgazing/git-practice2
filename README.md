@@ -1,6 +1,6 @@
 # Software Development & EdTech Revolution Article
 
-## Article
+## Article .
 
 [How EdTech Revolution Is Reshaping the Education Industry](https://radixweb.com/blog/edtech-revolution-software-development-is-reshaping-education-industry)
 
